@@ -2,7 +2,7 @@
 
 This repository is made for enabling the robot Sally to use a Faster R-CNN neural network to detect ping pong balls in an image in different colors.
 
-![img](/home/dennis/cloud_process/Results/result_img_973.jpg)
+![img](./Results/result_img_973.jpg)
 
 
 
